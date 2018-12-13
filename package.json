@@ -1,5 +1,5 @@
 {
-  "name": "simple-typescript-npm-package",
+  "name": "demo-pluralize",
   "version": "1.0.0",
   "description": "Learning how to publish a simple typescript module to npm. This package  returns the plural form of any noun.",
   "main": "dist/index.js",

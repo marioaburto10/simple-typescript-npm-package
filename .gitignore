@@ -65,3 +65,5 @@ dist
 
 .DS_Store
 
+.npmignore
+
