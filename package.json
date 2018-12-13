@@ -1,0 +1,28 @@
+{
+  "name": "simple-typescript-npm-package",
+  "version": "1.0.0",
+  "description": "Learning how to publish a simple typescript module to npm. This package  returns the plural form of any noun.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioaburto10/simple-typescript-npm-package.git"
+  },
+  "keywords": [],
+  "author": "Mario Aburto <marioaburto10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioaburto10/simple-typescript-npm-package/issues"
+  },
+  "homepage": "https://github.com/marioaburto10/simple-typescript-npm-package#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
