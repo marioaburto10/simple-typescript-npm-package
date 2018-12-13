@@ -2,6 +2,8 @@
 A demo Node.js module that returns the plural form of any noun. 
 Note: This npm package was just created for the purpose of learning how to create an npm package. 
 
+The module can be found on the [npm website](https://www.npmjs.com/package/demo-pluralize-2)
+
 ## Installation 
 ```sh
 npm install demo-pluralize-2 --save
