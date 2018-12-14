@@ -1,6 +1,6 @@
 {
   "name": "demo-pluralize-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning how to publish a simple typescript module to npm. This package  returns the plural form of any noun.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
